@@ -1,0 +1,17 @@
+name,mstar_code,ticker,category
+Commonwealth Bank,PINX:CMWAY,CBA,BCM
+ANZ,XASX:ANZ,ANZ,BCM
+National Australia Bank,XASX:NAB,NAB,BCM
+Westpac,XNYS:WBK,WBC,BCM
+Prudential,XNYS:PRU,PRU,Insurance
+Generali,PINX:ARZGF,G,Insurance
+AXA,PINX:AXAHF,CS,Insurance
+China Life,XNYS:LFC,C_601628,Insurance
+Aegon,XNYS:AEG,AEG,Insurance
+Zurich,PINX:ZURVY,ZURN,Insurance
+Old Mutual,PINX:ODMUF,OML,Insurance
+AIG,XNYS:AIG,AIG,Insurance
+Aviva,PINX:AIVAF,AV,Insurance
+Allianz,PINX:ALIZF,ALV,Insurance
+QBE,PINX:QBEIF,QBE,Insurance
+MetLife,XNYS:MET,MET,Insurance

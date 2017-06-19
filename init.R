@@ -1,8 +1,9 @@
+# setwd('C:\\Users\\mehakvl\\Desktop\\ey\\code\\fso')
 # source('init.r')
 
 # ----------- # # ----------- # # ----------- #
 # DEPENDENCIES
-dependencies <- c('reshape', 'knitr', 'markdown', 'ggplot2', 'scales', 'dplyr', 'RColorBrewer')
+dependencies <- c('reshape', 'knitr', 'markdown', 'ggplot2', 'scales', 'dplyr', 'RColorBrewer', 'rio', 'stringr')
 lapply(dependencies, require, character.only = TRUE)
 
 # ----------- # # ----------- # # ----------- #
